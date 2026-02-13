@@ -20,3 +20,5 @@ build/
 # Large/generated files
 *.png
 *.exe
+!diagrams/
+!diagrams/*.png
