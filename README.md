@@ -20,7 +20,7 @@ It is suitable for **academic evaluation**, **fintech document verification**, a
 ---
 
 ## System Architecture
-![Architecture](diagrams/pipeline and architecture.png)
+![Architecture](diagrams/pipeline.png)
 
 The system follows a **layered document understanding architecture**:
 
@@ -37,7 +37,7 @@ Each layer is independent, testable, and explainable.
 ---
 
 ## Processing Pipeline
-![Processing Pipeline](diagrams/pipeline and architecture.png)
+![Processing Pipeline](diagrams/pipeline.png)
 
 1. Document ingestion (image / PDF)  
 2. Image preprocessing  
