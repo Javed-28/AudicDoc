@@ -1,21 +1,19 @@
-# Web Framework
-Flask>=3.0.0
-flask-cors>=4.0.0
-
-# Core Image Processing
-opencv-python>=4.8.0
-
-# OCR Engine Wrapper (Tesseract must be installed separately at system level)
-pytesseract>=0.3.10
-
-# Numerical Computing
-numpy>=1.24.0
-
-# PDF to Image Conversion (requires poppler at system level)
-pdf2image>=1.16.3
-
-# Fuzzy String Matching for noisy OCR outputs
-rapidfuzz>=3.5.0
-
-# Image I/O and diagram support
-Pillow>=10.0.0
+blinker==1.9.0
+click==8.3.1
+colorama==0.4.6
+Flask==3.1.2
+flask-cors==6.0.2
+gunicorn==25.1.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+numpy==2.2.6
+opencv-contrib-python==4.13.0.90
+opencv-python==4.13.0.90
+packaging==26.0
+pdf2image==1.17.0
+pillow==12.1.0
+pytesseract==0.3.13
+RapidFuzz==3.14.3
+tk==0.1.0
+Werkzeug==3.1.5
